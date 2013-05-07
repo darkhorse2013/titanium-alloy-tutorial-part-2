@@ -1,0 +1,15 @@
+".container": {
+	backgroundColor: "white"
+},
+"#tableview": {
+
+},
+"#row": {
+	width: "100%",
+	height: "25px"
+},
+".rowName": {
+	top: "5px",
+	left: "10px",
+	color: "#000"
+}

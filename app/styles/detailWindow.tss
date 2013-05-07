@@ -1,0 +1,19 @@
+".container": {
+	backgroundColor: "white"
+},
+".nameLabel": {
+	top: "10px",
+	left: "10px",
+	font: {
+  	fontSize: '24px'    
+  },
+	color: "#000"
+},
+".descriptionLabel": {
+	top: "38px",
+	left: "10px",
+	font: {
+  	fontSize: '18px'    
+  },
+	color: "#666"
+}

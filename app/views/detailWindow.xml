@@ -1,0 +1,8 @@
+<Alloy>
+  <Window id="detailWindow" class="container">
+    <View>
+      <Label class="nameLabel" text="{name}" />
+      <Label class="descriptionLabel" text="{description}" />
+    </View>  
+  </Window>
+</Alloy>

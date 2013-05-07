@@ -1,0 +1,9 @@
+<Alloy>
+  <Window id="thingsWindow" class="container">
+  	<TableView id="tableview" dataCollection="thing">
+  	  <TableViewRow id="row" dataId="" model="{alloy_id}">
+  	    <Label class="rowName" text="{name}">
+  	  </TableViewRow>
+  	</TableView>
+	</Window>
+</Alloy>
